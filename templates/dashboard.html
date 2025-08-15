@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SSH Honeypot Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>SSH Honeypot Connection Logs</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>IP:Port</th>
+                <th>Location</th>
+                <th>ISP</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for log in logs %}
+            <tr>
+                <td>{{ log.ip_port }}</td>
+                <td>{{ log.location }}</td>
+                <td>{{ log.isp }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

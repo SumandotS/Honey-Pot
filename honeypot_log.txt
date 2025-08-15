@@ -1,0 +1,26 @@
+[2025-07-29 00:57:04] Connection from 127.0.0.1:51794
+[2025-07-29 19:23:45] Connection from 127.0.0.1:50212
+[2025-07-29 19:23:45] Error handling client 127.0.0.1:50212 - [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-07-29 19:38:10] Connection from 127.0.0.1:50380 - Connected
+[2025-07-29 19:38:10] Connection from 127.0.0.1:50380 - Username: root, Password: toor
+[2025-07-29 19:57:31] Error handling client 127.0.0.1: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-07-29 20:01:19] [+] Starting SSH honeypot on 0.0.0.0:2222
+[2025-07-29 20:01:42] [+] Connection from 127.0.0.1:51107
+[2025-07-29 20:01:52] [127.0.0.1] Login attempt with username='suman' password='1234'
+[2025-07-29 20:01:59] [127.0.0.1] Command: li
+[2025-07-29 20:02:04] [127.0.0.1] Command: ls
+[2025-07-29 20:03:34] [127.0.0.1] Command: pwd
+[2025-07-29 20:03:41] [127.0.0.1] Command: whoami
+[2025-07-29 20:03:48] [127.0.0.1] Command: exit
+[2025-07-29 23:01:27,163] Connection from 127.0.0.1:52829 | Location: Geolocation lookup failed
+[2025-07-29 23:11:46,690] Connection from 103.21.244.0:17163 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-29 23:12:41,879] Connection from 103.21.244.0:17197 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-29 23:13:27,497] Connection from 5.255.255.5:17316 | Location: Russia - Moscow, Moscow | ISP: Yandex LLC
+[2025-07-29 23:15:07,429] Connection from 151.101.0.81:17451 | Location: United States - California, San Francisco | ISP: Fastly, Inc.
+[2025-07-30 02:10:28,530] Connection from 127.0.0.1:57255 | Location: Geolocation lookup failed
+[2025-07-30 02:14:48,320] Connection from 103.21.244.0:57315 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-30 02:22:05,318] Connection from 103.21.244.0:57436 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-30 02:31:59,494] Connection from 103.21.244.0:57518 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-30 22:59:15,121] Connection from 103.21.244.0:53606 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-07-30 23:01:27,204] Connection from 103.21.244.0:53814 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
+[2025-08-01 00:13:33,097] Connection from 103.21.244.0:58451 | Location: Canada - Quebec, Montreal | ISP: CLOUDFLARE
